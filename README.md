@@ -1,2 +1,0 @@
-# DraggerDemo
-study dragger basic
